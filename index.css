@@ -1,0 +1,74 @@
+
+.navbar{
+    
+    height: 10vh;
+    display: flex;
+    align-content: space-between;
+}
+
+.logo{
+    margin-right: 200px;
+}
+.links{
+
+    display: flex;
+    
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.herosection{
+    height: 60vh;
+}
+.herosection img{
+    height: 60vh;
+    width: 100%;
+}
+
+
+
+.content{
+    height: 60vh;
+    display: flex;
+    
+    
+    
+    
+}
+
+
+.search{
+    height: 90vh;
+   width: 40%;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.search h1{
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inp{
+    height: 30px;
+    width: 200px;
+    margin-left: 30px ;
+    border: none;
+border-bottom: 1px solid black;
+}
+
+.productpage{
+    height: 90vh;
+    width: 100%;
+   
+    
+}
